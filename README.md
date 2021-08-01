@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 Hi,
 
-#### About me
+### About me
 I'm a Student at the [University of York](https://www.york.ac.uk/) studying for a BEng in Computer Science, currently on a year in industry at [ETAS](https://www.etas.com/en/).
 
 I'm interested in:
@@ -27,6 +27,6 @@ I'm interested in:
  
 I mainly write code in Python and C++.
 
-#### Contact
+### Contact
 * 📧 [email](lbowes.dev@gmail.com)
 * [LinkedIn](https://www.linkedin.com/in/lewis-bowes-1466b7185/)
