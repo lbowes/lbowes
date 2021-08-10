@@ -29,4 +29,4 @@ I mainly write code in Python and C++.
 
 ### Contact
 * 📧 [email](lbowes.dev@gmail.com)
-* [LinkedIn](https://www.linkedin.com/in/lewis-bowes-1466b7185/)
+* ⛓️ [LinkedIn](https://www.linkedin.com/in/lewis-bowes-1466b7185/)
