@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 Hi,
 
 ### About me
-I'm a Student at the [University of York](https://www.york.ac.uk/) studying for a BEng in Computer Science, currently on a year in industry at [ETAS](https://www.etas.com/en/).
+I'm a Student at the [University of York](https://www.york.ac.uk/) studying for a BEng in Computer Science.
 
 I'm interested in:
 
