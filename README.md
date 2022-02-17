@@ -18,15 +18,4 @@ Hi,
 ### About me
 I'm a student at the [University of York](https://www.york.ac.uk/) ~~studying~~ suffering for a BEng in Computer Science.
 
-I'm interested in:
-
-* graphics programming
-* procedural generation
-* physics simulation
-* quantified self
- 
-I mainly write code in Python and C++.
-
-### Contact
-* 📧 [email](lbowes.dev@gmail.com)
-* ⛓️ [LinkedIn](https://www.linkedin.com/in/lewis-bowes-1466b7185/)
+I'm interested in how software can be used to improve thought
