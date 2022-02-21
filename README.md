@@ -15,7 +15,4 @@ Here are some ideas to get you started:
 
 Hi,
 
-### About me
-I'm a student at the [University of York](https://www.york.ac.uk/) ~~studying~~ suffering for a BEng in Computer Science.
-
-I'm interested in how software can be used to improve thought.
+I'm a student at the [University of York](https://www.york.ac.uk/) ~~studying~~ suffering for a BEng in Computer Science, interested in how software can be used to improve thought.
