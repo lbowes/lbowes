@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 
 Hi,
 
-I'm a student at the [University of York](https://www.york.ac.uk/) ~~studying~~ suffering for a BEng in Computer Science, interested in how software can be used to improve thought.
+I'm currently a data labeller at [IBEX Innovations](https://ibexinnovations.co.uk/), interested in how software can be used to improve thought processes.
