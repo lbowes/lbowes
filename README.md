@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi! I'm a data labeller at [IBEX Innovations](https://ibexinnovations.co.uk/), interested in how software can be used to improve thought processes.
+Hi! I'm a software engineer at [Premium Lithium](https://premiumlithium.com/), interested in how software can be used to improve thought processes.
 
 ---
 
